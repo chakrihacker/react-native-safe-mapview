@@ -1,0 +1,26 @@
+{
+  "name": "react-native-safe-mapview",
+  "version": "1.0.0",
+  "description": "A react Native MapView which catches most of the errors",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "mapview"
+  ],
+  "author": "Subramanya Chakravarthy",
+  "repository": "https://github.com/chakrihacker/react-native-safe-mapview",
+  "bugs": {
+    "url": "https://github.com/chakrihacker/react-native-safe-mapview/issues"
+  },
+  "homepage": "https://github.com/chakrihacker/react-native-safe-mapview#readme",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "react-native-maps": ">=0.12.1"
+  },
+  "private": false
+}
