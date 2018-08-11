@@ -1,5 +1,8 @@
 # react-native-safe-mapview
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chakrihacker/react-native-safe-mapview.svg)](https://greenkeeper.io/)
+
+
 React Native Map Component which catches errors and works smoothly
 
 ## Installation
